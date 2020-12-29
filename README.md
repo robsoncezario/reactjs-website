@@ -1,5 +1,5 @@
 # This is a view website for fivem
-  This was my first React project, I've made it almost a year ago
+  This was my first React project
   
   - Material UI
   - Recoil JS
